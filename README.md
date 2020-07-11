@@ -12,7 +12,7 @@ A collection of posts that teach people how to build useful things/tools
 
 
 |link| language| Depth| 吐槽|
-|---|---|---| --- |
+|:---|:---|:---| :--- |
 | [Writing an OS in Rust ](https://os.phil-opp.com/) | Rust|☆☆☆☆☆| 谁还没有过精通OS的梦呢 |
 |[build a sqlite from scratch](https://cstack.github.io/db_tutorial/) | C |☆☆☆☆|
 |[Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/) | Go| ☆☆☆| paper读完了么？<br>看一下怎么实现它 |
@@ -27,7 +27,7 @@ A collection of posts that teach people how to build useful things/tools
 > ☆☆☆☆☆ 代表对的学习帮助很大，因此极力安利的内容
 
 |link|type|推荐指数|吐槽|
-|--- |---|---|---|
+|:--- |:---|:---|:---|
 |[How does a relational database work](http://coding-geek.com/how-databases-work/) |Text| ☆☆☆☆☆ | 菜鸟与你的差距，可能就在于他没读过这篇长文|
 |[On learning InnoDB: A journey to the core](https://blog.jcole.us/2013/01/02/on-learning-innodb-a-journey-to-the-core/)|Text|☆☆☆☆☆|通过阅读这个系列<br>我对引擎的理解登堂入室|
 |[[译] Linux 网络栈监控和调优：接收数据（2016)](http://arthurchiao.art/blog/tuning-stack-rx-zh/)|Text|☆☆☆☆| 对理解linux网络栈很有帮助|
